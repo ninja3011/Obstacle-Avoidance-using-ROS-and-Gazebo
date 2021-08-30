@@ -18,6 +18,8 @@ A VJTI SRA problem statement
 ![](https://github.com/ninja3011/Obstacle-Avoidance-using-ROS-and-Gazebo/blob/master/laser_reader.png)
 
 ## Acknowledgements and Resources
-* [SRA VJTI](http://sra.vjti.info/)   
-* [ROS Tutorials](https://youtu.be/PyC4Vj3NUUY)
+* [SRA VJTI](https://sravjti.in/)
 * [ROS Tutorials](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1/)
+* [Gazebo](http://gazebosim.org/)
+* [The Construct](https://www.theconstructsim.com/)
+  
