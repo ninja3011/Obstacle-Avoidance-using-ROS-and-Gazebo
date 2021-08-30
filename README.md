@@ -16,3 +16,8 @@ A VJTI SRA problem statement
 ## laser scanner readings logged using laser_reader.py script
 
 ![](https://github.com/ninja3011/Obstacle-Avoidance-using-ROS-and-Gazebo/blob/master/laser_reader.png)
+
+## Acknowledgements and Resources
+* [SRA VJTI](http://sra.vjti.info/)   
+* [ROS Tutorials](https://youtu.be/PyC4Vj3NUUY)
+* [ROS Tutorials](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1/)
